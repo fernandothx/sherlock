@@ -1319,7 +1319,7 @@
     "username_claimed": "blue"
   },
   "Lichess": {
-    "errorMsg": "Page not found!",
+    "errorType": "No such player",
     "errorType": "message",
     "url": "https://lichess.org/@/{}",
     "urlMain": "https://lichess.org",
@@ -1687,8 +1687,7 @@
     "username_claimed": "blue"
   },
   "ProductHunt": {
-    "errorMsg": "We seem to have lost this page",
-    "errorType": "message",
+    "errorType": "status_code",
     "url": "https://www.producthunt.com/@{}",
     "urlMain": "https://www.producthunt.com/",
     "username_claimed": "jenny"
